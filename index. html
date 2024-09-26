@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Sawant Sandip Sunil</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            background-color: #f5f5f5;
+        }
+        .resume {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="resume">
+        <!-- Personal Information -->
+        <section class="section" id="personal-info">
+            <h1>Sawant Sandip Sunil</h1>
+            <p>Email: sandip.sawant.aids.2023@vpkbiet.org| Phone: +91-9112435177</p>
+            <p>Location: Ambad, Jalna.,Maharashtra, India</p>
+        </section>
+
+        <!-- Summary -->
+        <section class="section" id="summary">
+            <h2>Summary</h2>
+            <p>An enthusiastic and highly motivated fresher with a degree in Artificial Intelligence & Data Science (AI&DS) from SPPU University (Class of 2027). Adept at applying AI techniques to real-world problems and skilled in data analysis, machine learning, and Python programming. Eager to contribute to a dynamic team in the field of AI and data-driven decision-making.</p>
+        </section>
+
+        <!-- Education -->
+        <section class="section" id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <h3>Bachelor of Technology in Artificial Intelligence & Data Science</h3>
+                    <p>SPPU University, 2023 - 2027</p>
+                    <p>CGPA: 8.1/10</p>
+                </li>
+            </ul>
+        </section>
+
+        <!-- Projects -->
+        <section class="section" id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>AI-based Stock Price Prediction</h3>
+                    <p>Developed a machine learning model using Python and TensorFlow to predict stock prices based on historical data. Implemented LSTM networks to improve prediction accuracy.</p>
+                </li>
+                <li>
+                    <h3>Healthcare Chatbot</h3>
+                    <p>Created an AI-powered chatbot using NLP techniques to assist patients by providing basic health advice and scheduling appointments, built using Python and Flask.</p>
+                </li>
+            </ul>
+        </section>
+
+        <!-- Skills -->
+        <section class="section" id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Programming Languages: Python, C++, Java</li>
+                <li>AI & ML: Machine Learning, Deep Learning, Natural Language Processing</li>
+                <li>Data Science: Data Analysis, Data Visualization, Pandas, NumPy</li>
+            </ul>
+        </section>
+
+        <!-- Certifications -->
+        <section class="section" id="certifications">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Certified in Python for Data Science by Coursera</li>
+                <li>Machine Learning Specialization by Stanford University (Coursera)</li>
+            </ul>
+        </section>
+
+        <!-- Extracurricular Activities -->
+        <section class="section" id="activities">
+            <h2>Extracurricular Activities</h2>
+            <ul>
+                <li>Volunteered as the Event Coordinator for AI & Data Science Club at VPKBIET University</li>
+                <li>Participated in Hackathons and won prize in a national-level SIH Hackathon in 2024</li>
+            </ul>
+        </section>
+
+    </div>
+
+</body>
+</html>
